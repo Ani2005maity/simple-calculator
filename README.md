@@ -27,7 +27,7 @@ simple-calculator/
 
 ## Live Demo
 
-(Will be added after enabling GitHub Pages)
+https://ani2005maity.github.io/simple-calculator/
 
 ## License
 
